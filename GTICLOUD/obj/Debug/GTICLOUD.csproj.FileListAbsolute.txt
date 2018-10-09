@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\GTICLOUD\GTICLOUD\bin\GTICLOUD.dll
+C:\Users\Admin\Desktop\GTICLOUD\GTICLOUD\bin\GTICLOUD.pdb
+C:\Users\Admin\Desktop\GTICLOUD\GTICLOUD\obj\Debug\GTICLOUD.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\GTICLOUD\GTICLOUD\obj\Debug\GTICLOUD.dll
+C:\Users\Admin\Desktop\GTICLOUD\GTICLOUD\obj\Debug\GTICLOUD.pdb
